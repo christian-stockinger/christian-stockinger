@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hi there, I`m [Christian!](https://christian-stockinger.de/) 👋
 
 🌱 I’m currently learning Unity, UnrealEngine C++
